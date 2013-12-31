@@ -1,0 +1,13 @@
+## Interface: 40200
+## Title: |cffa0a0f0Stay Focused!|r Health
+## Notes: Player health numeric display.
+## Author: Drauer
+## Version: 40200.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: StayFocusedHealthDB
+## Dependencies: StayFocused
+
+tekKonfig\tekKonfig.xml
+StayFocused_Health.lua
+Config.lua
